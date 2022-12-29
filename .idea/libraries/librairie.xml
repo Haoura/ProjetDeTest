@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="librairie">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/schematrons/profils/terminologies/programme/librairie/ph-schematron-ant-task-6.0.3-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/schematrons/profils/terminologies/programme/librairie/commons-cli-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
