@@ -40,7 +40,11 @@
   <id root="1.2.250.1.213.1.1.1.40.1"/>
   <!-- Type de document -->
   <code code="77436-4" displayName="CR d'anesthésie" codeSystem="2.16.840.1.113883.6.1"
-    codeSystemName="LOINC test"/>
+    codeSystemName="LOINC"/>
+=======
+  <code code="77436-4" displayName="CR d'anesthésie test" codeSystem="2.16.840.1.113883.6.1"
+    codeSystemName="LOINC"/>
+>>>>>>> b1fbb1b09c5f0fd86d0f0d5e6b74c14042c5ebfd
   <!-- Titre du document -->
   <title>Compte rendu d'anesthésie</title>
   <!-- Date de création du document -->
