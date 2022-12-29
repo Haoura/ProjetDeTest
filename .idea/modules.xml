@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/schematrons/profils/profils.iml" filepath="$PROJECT_DIR$/schematrons/profils/profils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schematrons/schematrons.iml" filepath="$PROJECT_DIR$/schematrons/schematrons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/testContenuCDA_Futur_24122022.iml" filepath="$PROJECT_DIR$/.idea/testContenuCDA_Futur_24122022.iml" />
+    </modules>
+  </component>
+</project>
