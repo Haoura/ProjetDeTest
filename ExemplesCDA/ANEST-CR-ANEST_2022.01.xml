@@ -19,6 +19,7 @@
     13/07/2021 : Correction unité "ml" par "mL"
     29/04/2022 : Migration des terminologies et JDVs en SNOMED CT
     12/01/2023: GitKraken
+    test test
 	**********************************************************************************************************
 -->
 <ClinicalDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
